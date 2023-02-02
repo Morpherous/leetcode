@@ -1,5 +1,5 @@
 ---
-description: 因为超过数组的一半，要不是1x1x1,要不就是111xx或者1x11x etc
+description: 因为超过数组的一半，要不是1x1x1,要不就是111xx或者1x11x 等
 ---
 
 # 169. Majority Element
