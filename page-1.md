@@ -1,0 +1,35 @@
+---
+description: >-
+  采用动态规划的方法，用一个有序数组dp记录前n个丑数。三个指针l2，l3和l5指向dp中的元素，最小的丑数只可能出现在dp[l2]的2倍、dp[l3]的3倍和dp[l5]的5倍三者中间。通过移动三个指针，就能保证生成的丑数是有序的。
+---
+
+# Page 1
+
+
+
+* 初始化数组`dp`和三个指针`l2`、`l3`和`l5`。`dp[0] = 1`，表示最小的丑数为`1`。三个指针都指向`dp[0]`。
+* 重复以下步骤`n`次，`dp[i]`表示第`i + 1`小的丑数：
+  * 比较`2 * dp[l2], 3 * dp[l3], 5 * dp[l5]`三者大小，令`dp[i]`为其中的最小值。
+  * 如果`dp[i] == 2 * dp[l2]`，`l2`指针后移一位。
+  * 如果`dp[i] == 3 * dp[l3]`，`l3`指针后移一位。
+  * 如果`dp[i] == 2 * dp[l5]`，`l5`指针后移一位。
+* `dp[n - 1]`即为第`n`小的丑数，返回。
+
+````java
+```java
+class Solution {
+    public int nthUglyNumber(int n) {
+        int[] dp=new int[n];
+        dp[0]=1;
+        int l2=0,l3=0,l5=0;
+        for(int i=1;i<n;i++){
+            dp[i]=Math.min(Math.min(dp[l2]*2,dp[l3]*3),dp[l5]*5);
+            if(dp[l2]*2==dp[i]){l2++;}
+            if(dp[l3]*3==dp[i]){l3++;}
+            if(dp[l5]*5==dp[i]){l5++;}
+        }
+        return dp[n-1];
+    }
+}
+```
+````
