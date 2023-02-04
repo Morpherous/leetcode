@@ -9,3 +9,4 @@
 * [64. Minimum Path Sum](64.-minimum-path-sum.md)
 * [3. Longest Substring Without Repeating Characters](3.-longest-substring-without-repeating-characters.md)
 * [264. Ugly Number II](264.-ugly-number-ii.md)
+* [387. First Unique Character in a String](387.-first-unique-character-in-a-string.md)
