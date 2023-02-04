@@ -8,4 +8,4 @@
 * [91. Decode Ways](91.-decode-ways.md)
 * [64. Minimum Path Sum](64.-minimum-path-sum.md)
 * [3. Longest Substring Without Repeating Characters](3.-longest-substring-without-repeating-characters.md)
-* [Page 1](page-1.md)
+* [264. Ugly Number II](264.-ugly-number-ii.md)
