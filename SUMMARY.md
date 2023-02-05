@@ -13,4 +13,4 @@
 * [160. Intersection of Two Linked Lists](160.-intersection-of-two-linked-lists.md)
 * [34. Find First and Last Position of Element in Sorted Array](34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [268. Missing Number](268.-missing-number.md)
-* [230. Kth Smallest Element in a BST](230.-kth-smallest-element-in-a-bst.md)
+* [230. Kth Smallest Element in a BST](page-1.md)
