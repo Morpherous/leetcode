@@ -12,3 +12,4 @@
 * [387. First Unique Character in a String](387.-first-unique-character-in-a-string.md)
 * [160. Intersection of Two Linked Lists](160.-intersection-of-two-linked-lists.md)
 * [34. Find First and Last Position of Element in Sorted Array](34.-find-first-and-last-position-of-element-in-sorted-array.md)
+* [268. Missing Number](268.-missing-number.md)
