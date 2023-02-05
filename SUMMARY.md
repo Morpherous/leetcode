@@ -14,3 +14,4 @@
 * [34. Find First and Last Position of Element in Sorted Array](34.-find-first-and-last-position-of-element-in-sorted-array.md)
 * [268. Missing Number](268.-missing-number.md)
 * [230. Kth Smallest Element in a BST](page-1.md)
+* [104. Maximum Depth of Binary Tree](104.-maximum-depth-of-binary-tree.md)
