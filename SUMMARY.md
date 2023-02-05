@@ -15,3 +15,4 @@
 * [268. Missing Number](268.-missing-number.md)
 * [230. Kth Smallest Element in a BST](page-1.md)
 * [104. Maximum Depth of Binary Tree](104.-maximum-depth-of-binary-tree.md)
+* [110. Balanced Binary Tree](110.-balanced-binary-tree.md)
