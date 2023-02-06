@@ -22,3 +22,4 @@
 * [829. Consecutive Numbers Sum](829.-consecutive-numbers-sum.md)
 * [151. Reverse Words in a String](151.-reverse-words-in-a-string.md)
 * [189. Rotate Array](189.-rotate-array.md)
+* [1155. Number of Dice Rolls With Target Sum](1155.-number-of-dice-rolls-with-target-sum.md)
