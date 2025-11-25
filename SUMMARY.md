@@ -1,6 +1,7 @@
 # Table of contents
 
-* [169. Majority Element](README.md)
+* [2024之后NIW RFE 不是意外，而是常态了](README.md)
+* [169. Majority Element](<README (1).md>)
 * [215. Kth Largest Element in an Array](215.-kth-largest-element-in-an-array.md)
 * [295. Find Median from Data Stream](295.-find-median-from-data-stream.md)
 * [53. Maximum Subarray](53.-maximum-subarray.md)
